@@ -43,5 +43,5 @@ for item in dictionary['entries']:
 
 save_to_text_file(puuid_list)
 
-# remover duplicados de uma lista:
+# Remove duplicates from list:
 # clean_list = list(set(l))
